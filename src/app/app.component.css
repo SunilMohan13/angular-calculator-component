@@ -1,3 +1,25 @@
 p {
   font-family: Lato;
 }
+
+input {
+  width: 40%;
+  padding: 12px 40px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 0%;
+  margin: 8px 0;
+  width: 20%;
+}
+
+label {
+  width: 10%;
+  padding: 10px 20px;
+}
